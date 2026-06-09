@@ -6,6 +6,8 @@ npm run dev
 
 please check the screenshots added in github repository
 
+<img width="1366" height="549" alt="{E3932228-7588-4FF1-8D59-46D40C8C3AA2}" src="https://github.com/user-attachments/assets/70f92c8b-a293-4268-a535-5c334ab4f4aa" />
+
 Project Details: Dynamic Color Clock with date-fns library
 
 
